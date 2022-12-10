@@ -61,5 +61,10 @@
   .localTimeAndDate p{
     font-size: 20px;
   }
+  .timeSection{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
   
 }
